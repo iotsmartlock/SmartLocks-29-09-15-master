@@ -24,7 +24,7 @@ public class Settings extends ActionBarActivity {
 
 
 
-        // Set up the drawer.
+        // Set up the drawer.cds
 
 
     }
